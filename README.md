@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
