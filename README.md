@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Stack
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
