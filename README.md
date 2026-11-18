@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
