@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
