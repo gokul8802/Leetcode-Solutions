@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1251-average-selling-price) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
