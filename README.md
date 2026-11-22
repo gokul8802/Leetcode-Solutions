@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3421-find-students-who-improved) |
+| [3436-find-valid-emails](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3436-find-valid-emails) |
 ## Two Pointers
 |  |
 | ------- |
