@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
