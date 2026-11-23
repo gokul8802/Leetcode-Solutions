@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3436-find-valid-emails](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3436-find-valid-emails) |
 | [3475-dna-pattern-recognition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3482-analyze-organization-hierarchy) |
+| [3497-analyze-subscription-conversion](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3497-analyze-subscription-conversion) |
 ## Two Pointers
 |  |
 | ------- |
