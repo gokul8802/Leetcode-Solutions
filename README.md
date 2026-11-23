@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0607-sales-person) |
