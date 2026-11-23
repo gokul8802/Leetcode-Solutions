@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
