@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3482-analyze-organization-hierarchy](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3521-find-product-recommendation-pairs) |
+| [3554-find-category-recommendation-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3554-find-category-recommendation-pairs) |
 ## Two Pointers
 |  |
 | ------- |
