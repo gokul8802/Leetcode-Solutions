@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0595-big-countries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0607-sales-person) |
