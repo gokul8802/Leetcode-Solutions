@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
+| [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 ## String
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
+| [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
+| [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -856,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 ## Counting Sort
 |  |
 | ------- |
@@ -997,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 ## Design
 |  |
 | ------- |
