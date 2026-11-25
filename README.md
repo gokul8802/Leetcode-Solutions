@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Backtracking
 |  |
 | ------- |
