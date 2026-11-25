@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1348-tweet-counts-per-frequency) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Counting Sort
 |  |
 | ------- |
@@ -873,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search Tree
 |  |
 | ------- |
