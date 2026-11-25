@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
