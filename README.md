@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0891-sum-of-subsequence-widths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
+| [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0891-sum-of-subsequence-widths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -536,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
