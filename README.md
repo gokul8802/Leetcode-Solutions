@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
+| [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 ## String
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 ## Sorting
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 ## Backtracking
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
