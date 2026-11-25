@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Sorting
 |  |
 | ------- |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Backtracking
 |  |
 | ------- |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
