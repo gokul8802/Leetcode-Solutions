@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Stack
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Linked List
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Sorting
 |  |
 | ------- |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -971,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Randomized
 |  |
 | ------- |
@@ -1121,4 +1127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
+## Hash Function
+|  |
+| ------- |
+| [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
