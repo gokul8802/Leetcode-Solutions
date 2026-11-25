@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Sorting
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Backtracking
 |  |
 | ------- |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Counting Sort
 |  |
 | ------- |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1048-longest-string-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
