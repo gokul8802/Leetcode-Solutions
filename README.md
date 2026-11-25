@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1424-diagonal-traverse-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1424-diagonal-traverse-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1424-diagonal-traverse-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 ## Quickselect
 |  |
 | ------- |
