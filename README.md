@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
 | ------- |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -1129,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## K-D Tree
 |  |
 | ------- |
