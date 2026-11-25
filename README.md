@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1424-diagonal-traverse-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Backtracking
 |  |
 | ------- |
