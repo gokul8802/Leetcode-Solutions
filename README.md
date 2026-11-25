@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
 |  |
 | ------- |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Backtracking
 |  |
 | ------- |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
