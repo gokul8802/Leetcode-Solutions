@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Linked List
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0710-random-pick-with-blacklist](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Backtracking
 |  |
 | ------- |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Randomized
 |  |
 | ------- |
