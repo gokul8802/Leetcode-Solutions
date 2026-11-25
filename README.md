@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2191-sort-the-jumbled-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2191-sort-the-jumbled-numbers) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2191-sort-the-jumbled-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2191-sort-the-jumbled-numbers) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
