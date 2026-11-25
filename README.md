@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Design
 |  |
 | ------- |
@@ -879,4 +882,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
