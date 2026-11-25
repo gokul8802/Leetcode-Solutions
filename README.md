@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Backtracking
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -374,4 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
