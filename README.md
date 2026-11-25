@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1847-closest-room](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
