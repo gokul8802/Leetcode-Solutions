@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 ## Linked List
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 ## Sorting
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 ## Backtracking
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
