@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Sorting
 |  |
 | ------- |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Backtracking
 |  |
 | ------- |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Prefix Sum
 |  |
 | ------- |
