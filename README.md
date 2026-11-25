@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
 | ------- |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Backtracking
 |  |
 | ------- |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
