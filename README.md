@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -369,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Counting Sort
 |  |
 | ------- |
