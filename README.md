@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 ## String
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
