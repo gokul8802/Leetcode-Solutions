@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Stack
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Sorting
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Counting Sort
 |  |
 | ------- |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Randomized
 |  |
 | ------- |
