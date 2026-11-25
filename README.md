@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 ## Sorting
 |  |
 | ------- |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 ## Backtracking
 |  |
 | ------- |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 ## Quickselect
 |  |
 | ------- |
@@ -1082,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 ## Union-Find
 |  |
 | ------- |
@@ -1149,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 ## Prefix Sum
 |  |
 | ------- |
