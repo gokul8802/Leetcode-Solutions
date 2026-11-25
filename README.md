@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 ## Linked List
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 ## Sorting
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 ## Backtracking
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
