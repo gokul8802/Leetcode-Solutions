@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Sorting
 |  |
 | ------- |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Backtracking
 |  |
 | ------- |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1834-single-threaded-cpu](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
