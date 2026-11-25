@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
+| [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 ## Linked List
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1048-longest-string-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 ## Sorting
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1048-longest-string-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 ## Quickselect
 |  |
 | ------- |
