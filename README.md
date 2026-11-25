@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
