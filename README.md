@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Linked List
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Sorting
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 ## Counting Sort
 |  |
 | ------- |
