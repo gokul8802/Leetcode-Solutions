@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+| [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
+| [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
+| [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 ## Sorting
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
+| [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -569,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
+## Geometry
+|  |
+| ------- |
+| [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
