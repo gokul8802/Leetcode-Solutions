@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1424-diagonal-traverse-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1424-diagonal-traverse-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1424-diagonal-traverse-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
