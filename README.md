@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Sorting
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Backtracking
 |  |
 | ------- |
@@ -585,4 +587,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+## Simulation
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
