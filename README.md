@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 ## Sorting
 |  |
 | ------- |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 ## Backtracking
 |  |
 | ------- |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
