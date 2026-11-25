@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 ## Sorting
 |  |
 | ------- |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 ## Counting Sort
 |  |
 | ------- |
