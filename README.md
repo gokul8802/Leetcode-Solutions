@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Sorting
 |  |
 | ------- |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Backtracking
 |  |
 | ------- |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Counting Sort
 |  |
 | ------- |
