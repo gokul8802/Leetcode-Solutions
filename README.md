@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2191-sort-the-jumbled-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Backtracking
 |  |
 | ------- |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Quickselect
 |  |
 | ------- |
