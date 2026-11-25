@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
+| [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 ## Sorting
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
+| [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 ## Backtracking
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 ## Quickselect
 |  |
 | ------- |
