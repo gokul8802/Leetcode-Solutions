@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1288-remove-covered-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1288-remove-covered-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 ## Backtracking
 |  |
 | ------- |
