@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Sorting
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Backtracking
 |  |
 | ------- |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 ## Queue
 |  |
 | ------- |
@@ -652,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+## Matrix
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
