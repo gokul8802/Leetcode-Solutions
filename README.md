@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
 |  |
 | ------- |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
