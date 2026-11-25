@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 ## Backtracking
 |  |
 | ------- |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
