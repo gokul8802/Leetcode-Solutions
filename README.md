@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
