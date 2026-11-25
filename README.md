@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0891-sum-of-subsequence-widths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0905-sort-array-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
+| [0905-sort-array-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Backtracking
 |  |
 | ------- |
