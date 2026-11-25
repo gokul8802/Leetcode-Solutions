@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 ## String
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -1037,4 +1042,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
