@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Sorting
 |  |
 | ------- |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Backtracking
 |  |
 | ------- |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
