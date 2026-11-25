@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
+| [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
