@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
+| [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
+| [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
+| [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 ## Backtracking
 |  |
 | ------- |
