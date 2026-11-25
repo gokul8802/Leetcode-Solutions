@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 ## Backtracking
 |  |
 | ------- |
