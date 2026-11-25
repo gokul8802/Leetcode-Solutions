@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 ## Sorting
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 ## Backtracking
 |  |
 | ------- |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1340-jump-game-v](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
