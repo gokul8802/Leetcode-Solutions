@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
