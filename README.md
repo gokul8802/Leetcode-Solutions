@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
+| [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -832,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1348-tweet-counts-per-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1348-tweet-counts-per-frequency) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
