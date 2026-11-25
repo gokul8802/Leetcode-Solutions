@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 ## Sorting
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 ## Backtracking
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 ## Counting Sort
 |  |
 | ------- |
