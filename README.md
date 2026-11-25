@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
