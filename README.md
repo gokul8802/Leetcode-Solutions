@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Backtracking
 |  |
 | ------- |
