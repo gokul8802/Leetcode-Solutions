@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 ## Backtracking
 |  |
 | ------- |
