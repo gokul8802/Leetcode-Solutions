@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Linked List
 |  |
 | ------- |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2191-sort-the-jumbled-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
 | ------- |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2191-sort-the-jumbled-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Backtracking
 |  |
 | ------- |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
