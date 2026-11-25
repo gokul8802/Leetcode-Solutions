@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Backtracking
 |  |
 | ------- |
