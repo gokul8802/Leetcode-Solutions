@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 ## Sorting
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
+| [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 ## Backtracking
 |  |
 | ------- |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
+| [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
