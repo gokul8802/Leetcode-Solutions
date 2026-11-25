@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1630-arithmetic-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
+| [1630-arithmetic-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
+| [1630-arithmetic-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
 ## Backtracking
 |  |
 | ------- |
