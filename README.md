@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1348-tweet-counts-per-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Stack
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-tweet-counts-per-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1348-tweet-counts-per-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Linked List
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Sorting
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Backtracking
 |  |
 | ------- |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1348-tweet-counts-per-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1348-tweet-counts-per-frequency) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 ## Binary Search
 |  |
 | ------- |
