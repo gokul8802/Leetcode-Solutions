@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2191-sort-the-jumbled-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2191-sort-the-jumbled-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2191-sort-the-jumbled-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2191-sort-the-jumbled-numbers) |
 ## Backtracking
 |  |
 | ------- |
