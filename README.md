@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1048-longest-string-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 ## Linked List
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 ## Sorting
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+| [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 ## Backtracking
 |  |
 | ------- |
