@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Tree
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Backtracking
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
 ## Dynamic Programming
 |  |
 | ------- |
