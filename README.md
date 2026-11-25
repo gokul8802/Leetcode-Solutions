@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [0761-special-binary-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0324-wiggle-sort-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0761-special-binary-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0757-set-intersection-size-at-least-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0757-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
