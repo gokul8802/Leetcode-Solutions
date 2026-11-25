@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1331-rank-transform-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
