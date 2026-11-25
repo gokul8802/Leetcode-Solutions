@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
