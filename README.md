@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1859-sorting-the-sentence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -870,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -877,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
