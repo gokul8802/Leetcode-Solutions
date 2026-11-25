@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
