@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 ## Linked List
 |  |
 | ------- |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 ## Sorting
 |  |
 | ------- |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -1074,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 ## Timsort
 |  |
 | ------- |
