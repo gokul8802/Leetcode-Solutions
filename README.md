@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Linked List
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Radix Sort
 |  |
 | ------- |
@@ -314,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -346,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -391,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
