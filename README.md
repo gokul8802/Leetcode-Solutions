@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
 | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
 | ------- |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1982-find-array-given-subset-sums) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Backtracking
 |  |
 | ------- |
