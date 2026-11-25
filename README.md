@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Sorting
 |  |
 | ------- |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Backtracking
 |  |
 | ------- |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [2094-finding-3-digit-even-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Timsort
 |  |
 | ------- |
@@ -1179,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 ## Binary Search Tree
 |  |
 | ------- |
