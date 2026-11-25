@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 ## Linked List
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 ## Sorting
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 ## Backtracking
 |  |
 | ------- |
@@ -1052,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 ## Binary Search Tree
 |  |
 | ------- |
