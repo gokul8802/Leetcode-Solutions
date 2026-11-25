@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
