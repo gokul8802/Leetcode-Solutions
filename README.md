@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1630-arithmetic-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1630-arithmetic-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
+| [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1329-sort-the-matrix-diagonally](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 ## Design
 |  |
 | ------- |
@@ -961,4 +966,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Topological Sort
+|  |
+| ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 <!---LeetCode Topics End-->
