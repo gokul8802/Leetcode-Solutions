@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1268-search-suggestions-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
