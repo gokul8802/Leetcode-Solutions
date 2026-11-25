@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Sorting
 |  |
 | ------- |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 | [2126-destroying-asteroids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Backtracking
 |  |
 | ------- |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2126-destroying-asteroids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
