@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Linked List
 |  |
 | ------- |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Sorting
 |  |
 | ------- |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Backtracking
 |  |
 | ------- |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1055,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Counting Sort
 |  |
 | ------- |
