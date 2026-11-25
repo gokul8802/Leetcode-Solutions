@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Tree
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0757-set-intersection-size-at-least-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
