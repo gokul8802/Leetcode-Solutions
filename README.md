@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
+| [2126-destroying-asteroids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
+| [2126-destroying-asteroids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 ## Backtracking
 |  |
 | ------- |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2126-destroying-asteroids](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
