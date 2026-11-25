@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 ## Quickselect
 |  |
 | ------- |
