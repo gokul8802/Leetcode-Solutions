@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1478-allocate-mailboxes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 ## Array
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 ## Sorting
 |  |
 | ------- |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 ## Backtracking
 |  |
 | ------- |
@@ -869,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
+| [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 ## Queue
 |  |
 | ------- |
