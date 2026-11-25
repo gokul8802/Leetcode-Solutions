@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Backtracking
 |  |
 | ------- |
