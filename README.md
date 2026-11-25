@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Prefix Sum
 |  |
 | ------- |
