@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Tree
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Backtracking
 |  |
 | ------- |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Binary Search
 |  |
 | ------- |
@@ -557,12 +561,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0823-binary-trees-with-factors) |
+| [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
