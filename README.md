@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1348-tweet-counts-per-frequency) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1054-distant-barcodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
