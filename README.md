@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Sorting
 |  |
 | ------- |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Backtracking
 |  |
 | ------- |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
