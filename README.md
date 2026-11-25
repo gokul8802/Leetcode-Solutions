@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 ## Linked List
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0791-custom-sort-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 ## Backtracking
 |  |
 | ------- |
