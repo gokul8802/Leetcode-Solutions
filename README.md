@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Backtracking
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0923-3sum-with-multiplicity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0923-3sum-with-multiplicity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
