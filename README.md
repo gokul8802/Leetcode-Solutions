@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 ## Timsort
 |  |
 | ------- |
@@ -1215,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 ## Design
 |  |
 | ------- |
