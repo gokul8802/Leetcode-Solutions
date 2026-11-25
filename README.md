@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Sorting
 |  |
 | ------- |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Backtracking
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
