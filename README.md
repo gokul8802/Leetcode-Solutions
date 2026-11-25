@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1200-minimum-absolute-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1200-minimum-absolute-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 ## Backtracking
 |  |
 | ------- |
