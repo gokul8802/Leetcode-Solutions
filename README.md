@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 | [0939-minimum-area-rectangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0939-minimum-area-rectangle) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
+| [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
+| [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0954-array-of-doubled-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
+| [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -620,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
