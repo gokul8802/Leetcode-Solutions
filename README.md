@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
 |  |
 | ------- |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Backtracking
 |  |
 | ------- |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Quickselect
 |  |
 | ------- |
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-minimum-space-wasted-from-packaging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1010,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2054-two-best-non-overlapping-events](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
