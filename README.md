@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Sorting
 |  |
 | ------- |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Backtracking
 |  |
 | ------- |
