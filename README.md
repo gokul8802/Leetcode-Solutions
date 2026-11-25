@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0891-sum-of-subsequence-widths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
+| [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0910-smallest-range-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
