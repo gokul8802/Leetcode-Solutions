@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
@@ -147,8 +148,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
