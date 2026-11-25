@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Linked List
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Backtracking
 |  |
 | ------- |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1366-rank-teams-by-votes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
