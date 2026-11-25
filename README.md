@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## Sorting
 |  |
 | ------- |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## Backtracking
 |  |
 | ------- |
@@ -827,11 +829,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1402-reducing-dishes) |
 | [1478-allocate-mailboxes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1187-make-array-strictly-increasing](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1626-best-team-with-no-conflicts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## Trie
 |  |
 | ------- |
