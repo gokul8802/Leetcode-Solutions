@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
