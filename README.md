@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -751,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
