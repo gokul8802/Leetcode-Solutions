@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1348-tweet-counts-per-frequency](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1348-tweet-counts-per-frequency) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
 ## Counting Sort
 |  |
 | ------- |
