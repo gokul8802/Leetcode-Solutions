@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
 | ------- |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
 | ------- |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Monotonic Stack
 |  |
 | ------- |
