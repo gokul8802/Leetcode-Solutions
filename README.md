@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
+| [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Sorting
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0869-reordered-power-of-2) |
 | [0870-advantage-shuffle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Backtracking
 |  |
 | ------- |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0826-most-profit-assigning-work) |
+| [0888-fair-candy-swap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Counting Sort
 |  |
 | ------- |
