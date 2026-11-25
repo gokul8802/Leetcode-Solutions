@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Backtracking
 |  |
 | ------- |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Binary Search Tree
 |  |
 | ------- |
