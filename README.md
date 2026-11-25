@@ -149,9 +149,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
