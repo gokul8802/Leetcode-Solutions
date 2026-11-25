@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
+| [1840-maximum-building-height](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 ## Sorting
 |  |
 | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1840-maximum-building-height](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 ## Backtracking
 |  |
 | ------- |
