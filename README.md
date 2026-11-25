@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1686-stone-game-vi) |
 | [1840-maximum-building-height](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -1152,4 +1156,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
+## Number Theory
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 <!---LeetCode Topics End-->
