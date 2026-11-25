@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
 |  |
 | ------- |
