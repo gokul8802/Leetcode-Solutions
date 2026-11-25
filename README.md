@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Sorting
 |  |
 | ------- |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1943-describe-the-painting) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Backtracking
 |  |
 | ------- |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
