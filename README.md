@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 ## Sorting
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 ## Backtracking
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -641,4 +644,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
