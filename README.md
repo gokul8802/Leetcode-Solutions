@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1818-minimum-absolute-sum-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Backtracking
 |  |
 | ------- |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Monotonic Stack
 |  |
 | ------- |
