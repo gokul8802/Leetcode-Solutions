@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
