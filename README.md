@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
 | ------- |
