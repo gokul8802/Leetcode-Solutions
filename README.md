@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
 ## Backtracking
 |  |
 | ------- |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
 ## Quickselect
 |  |
 | ------- |
@@ -1249,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
+| [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
 ## Design
 |  |
 | ------- |
