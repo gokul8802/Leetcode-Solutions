@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Stack
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Sorting
 |  |
 | ------- |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -1023,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -1031,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
