@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Sorting
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
