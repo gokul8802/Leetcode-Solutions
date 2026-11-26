@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
@@ -1093,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
