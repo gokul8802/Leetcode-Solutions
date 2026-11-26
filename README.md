@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2122-recover-the-original-array) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
 | ------- |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting Sort
 |  |
 | ------- |
