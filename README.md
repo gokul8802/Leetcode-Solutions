@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2578-split-with-minimum-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -1317,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
