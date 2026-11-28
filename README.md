@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 ## Sorting
 |  |
 | ------- |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 ## Backtracking
 |  |
 | ------- |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1201,10 +1204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1223,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
+| [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 ## Binary Search
 |  |
 | ------- |
@@ -1282,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 ## Counting Sort
 |  |
 | ------- |
