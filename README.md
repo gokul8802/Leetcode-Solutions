@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 ## Quickselect
 |  |
 | ------- |
