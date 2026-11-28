@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2580-count-ways-to-group-overlapping-ranges) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Sorting
 |  |
 | ------- |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2578-split-with-minimum-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1418,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Binary Search Tree
 |  |
 | ------- |
