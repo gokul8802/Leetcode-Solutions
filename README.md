@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -1267,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1442,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Binary Search Tree
 |  |
 | ------- |
