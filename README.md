@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
 ## Stack
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
 ## Linked List
 |  |
 | ------- |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
+| [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
 ## Sorting
 |  |
 | ------- |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
+| [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
 ## Backtracking
 |  |
 | ------- |
