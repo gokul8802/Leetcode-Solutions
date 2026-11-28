@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Linked List
 |  |
 | ------- |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
 | ------- |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Backtracking
 |  |
 | ------- |
