@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2785-sort-vowels-in-a-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
