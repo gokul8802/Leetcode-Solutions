@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
