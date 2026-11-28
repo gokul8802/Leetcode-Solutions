@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
+| [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 ## Sorting
 |  |
 | ------- |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
+| [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 ## Backtracking
 |  |
 | ------- |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
+| [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1268,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 ## Quickselect
 |  |
 | ------- |
@@ -1547,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 ## Prefix Sum
 |  |
 | ------- |
