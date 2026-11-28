@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Array
 |  |
 | ------- |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 | [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
+| [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Sorting
 |  |
 | ------- |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 | [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
+| [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Backtracking
 |  |
 | ------- |
