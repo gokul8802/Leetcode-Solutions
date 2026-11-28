@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Linked List
 |  |
 | ------- |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Sorting
 |  |
 | ------- |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Backtracking
 |  |
 | ------- |
@@ -1359,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1412,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
