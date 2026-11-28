@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1096-brace-expansion-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Tree
 |  |
 | ------- |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Quickselect
 |  |
 | ------- |
@@ -1164,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1183,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
