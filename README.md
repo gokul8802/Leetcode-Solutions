@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2785-sort-vowels-in-a-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Stack
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Linked List
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Backtracking
 |  |
 | ------- |
@@ -1198,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1661,8 +1666,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Brainteaser
 |  |
 | ------- |
 | [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 <!---LeetCode Topics End-->
