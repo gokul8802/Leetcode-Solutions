@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -1226,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Counting Sort
 |  |
 | ------- |
