@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -1105,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
