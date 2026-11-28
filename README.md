@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
+| [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 ## Stack
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
+| [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 ## Linked List
 |  |
 | ------- |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 ## Sorting
 |  |
 | ------- |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 ## Backtracking
 |  |
 | ------- |
@@ -1114,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 ## Quickselect
 |  |
 | ------- |
