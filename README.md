@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3035-maximum-palindromes-after-operations) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Backtracking
 |  |
 | ------- |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3035-maximum-palindromes-after-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
