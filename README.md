@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 ## Linked List
 |  |
 | ------- |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 ## Sorting
 |  |
 | ------- |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 ## Backtracking
 |  |
 | ------- |
@@ -1461,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 ## K-D Tree
 |  |
 | ------- |
