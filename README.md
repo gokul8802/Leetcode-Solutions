@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 | [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -1032,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 | [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Backtracking
 |  |
 | ------- |
