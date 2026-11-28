@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 ## Sorting
 |  |
 | ------- |
@@ -1022,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 ## Backtracking
 |  |
 | ------- |
@@ -1475,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 ## Timsort
 |  |
 | ------- |
