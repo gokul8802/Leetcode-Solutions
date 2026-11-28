@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1278,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1325,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
