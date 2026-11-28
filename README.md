@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
+| [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## Linked List
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2463-minimum-total-distance-traveled](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2463-minimum-total-distance-traveled](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## Backtracking
 |  |
 | ------- |
