@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Linked List
 |  |
 | ------- |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -887,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
 | ------- |
