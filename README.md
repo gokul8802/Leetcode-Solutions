@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
+| [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Tree
 |  |
 | ------- |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 | [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Sorting
 |  |
 | ------- |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 | [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 | [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
@@ -1457,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 ## K-D Tree
 |  |
 | ------- |
