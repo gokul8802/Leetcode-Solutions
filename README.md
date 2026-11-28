@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Linked List
 |  |
 | ------- |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Sorting
 |  |
 | ------- |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Backtracking
 |  |
 | ------- |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3035-maximum-palindromes-after-operations) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
