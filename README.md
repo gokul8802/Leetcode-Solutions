@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
+| [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
+| [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
+| [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -1416,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## K-D Tree
 |  |
 | ------- |
@@ -1447,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
