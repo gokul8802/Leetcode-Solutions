@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 ## Backtracking
 |  |
 | ------- |
@@ -1493,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
+| [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1597,4 +1600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 <!---LeetCode Topics End-->
