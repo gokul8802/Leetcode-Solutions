@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
+| [3011-find-if-array-can-be-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
 | ------- |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
