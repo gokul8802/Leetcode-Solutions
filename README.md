@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1221,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting Sort
 |  |
 | ------- |
