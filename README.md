@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -1232,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
+| [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 ## Enumeration
 |  |
 | ------- |
@@ -1328,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2285-maximum-total-importance-of-roads](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 ## Design
 |  |
 | ------- |
