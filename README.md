@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2578-split-with-minimum-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 ## Backtracking
 |  |
 | ------- |
