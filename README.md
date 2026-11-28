@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
+| [2785-sort-vowels-in-a-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2785-sort-vowels-in-a-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
