@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 ## Sorting
 |  |
 | ------- |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
+| [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 ## Backtracking
 |  |
 | ------- |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
