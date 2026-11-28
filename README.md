@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
 | ------- |
@@ -1004,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1051,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
 | ------- |
@@ -1297,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search Tree
 |  |
 | ------- |
