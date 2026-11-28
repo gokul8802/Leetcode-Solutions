@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
+| [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
+| [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |
