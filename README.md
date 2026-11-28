@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Sorting
 |  |
 | ------- |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Backtracking
 |  |
 | ------- |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1546,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -1593,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Binary Search Tree
 |  |
 | ------- |
