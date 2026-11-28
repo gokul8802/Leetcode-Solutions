@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
 | [2542-maximum-subsequence-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -1382,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## K-D Tree
 |  |
 | ------- |
