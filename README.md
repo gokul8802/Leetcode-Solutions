@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
+| [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -1058,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -1568,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Hungarian Algorithm
 |  |
 | ------- |
