@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
+| [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 ## Sorting
 |  |
 | ------- |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
+| [2740-find-the-value-of-the-partition](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2740-find-the-value-of-the-partition) |
 ## Backtracking
 |  |
 | ------- |
