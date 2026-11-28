@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
 | ------- |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2784-check-if-array-is-good](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Backtracking
 |  |
 | ------- |
