@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
 | ------- |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2512-reward-top-k-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2512-reward-top-k-students) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Backtracking
 |  |
 | ------- |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1207,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Counting Sort
 |  |
 | ------- |
