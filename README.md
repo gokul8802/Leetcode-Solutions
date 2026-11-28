@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Sorting
 |  |
 | ------- |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2933-high-access-employees](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Backtracking
 |  |
 | ------- |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
