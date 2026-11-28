@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 ## Sorting
 |  |
 | ------- |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -1471,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2681-power-of-heroes](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2681-power-of-heroes) |
 ## Binary Search Tree
 |  |
 | ------- |
