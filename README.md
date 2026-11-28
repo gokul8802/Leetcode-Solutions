@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2578-split-with-minimum-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -948,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
+| [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1526,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1998-gcd-sort-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Prime Factorization
 |  |
 | ------- |
