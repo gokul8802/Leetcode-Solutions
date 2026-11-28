@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -1293,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2813-maximum-elegance-of-a-k-length-subsequence) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
+| [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -1541,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2766-relocate-marbles](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2766-relocate-marbles) |
+| [2974-minimum-number-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## K-D Tree
 |  |
 | ------- |
