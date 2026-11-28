@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 ## Stack
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 ## Linked List
 |  |
 | ------- |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
+| [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 ## Sorting
 |  |
 | ------- |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
+| [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 ## Backtracking
 |  |
 | ------- |
@@ -1082,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
+| [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 ## Quickselect
 |  |
 | ------- |
