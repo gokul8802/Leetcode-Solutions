@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 ## Sorting
 |  |
 | ------- |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2421-number-of-good-paths](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2421-number-of-good-paths) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 ## Backtracking
 |  |
 | ------- |
@@ -1027,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
