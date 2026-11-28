@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
+| [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2386-find-the-k-sum-of-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -1248,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1094-car-pooling) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 ## K-D Tree
 |  |
 | ------- |
