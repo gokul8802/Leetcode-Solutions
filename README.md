@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 ## Sorting
 |  |
 | ------- |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 ## Backtracking
 |  |
 | ------- |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2592-maximize-greatness-of-an-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2592-maximize-greatness-of-an-array) |
 | [2607-make-k-subarray-sums-equal](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2607-make-k-subarray-sums-equal) |
+| [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1180,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2551-put-marbles-in-bags](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2551-put-marbles-in-bags) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2611-mice-and-cheese](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2611-mice-and-cheese) |
 ## Quickselect
 |  |
 | ------- |
