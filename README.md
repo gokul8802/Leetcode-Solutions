@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1061,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1528,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2708-maximum-strength-of-a-group) |
 | [2860-happy-students](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2860-happy-students) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Timsort
 |  |
 | ------- |
@@ -1543,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1610-maximum-number-of-visible-points](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1610-maximum-number-of-visible-points) |
+| [3025-find-the-number-of-ways-to-place-people-i](https://github.com/gokul8802/Leetcode-Solutions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 ## Queue
 |  |
 | ------- |
