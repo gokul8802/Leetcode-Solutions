@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 ## Tree
 |  |
 | ------- |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2731-movement-of-robots](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2731-movement-of-robots) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -1226,11 +1229,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
+| [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
+| [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1312,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2659-make-array-empty](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2659-make-array-empty) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1332,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/gokul8802/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gokul8802/Leetcode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2454-next-greater-element-iv](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2454-next-greater-element-iv) |
+| [2736-maximum-sum-queries](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2736-maximum-sum-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
