@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
 ## Sorting
 |  |
 | ------- |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
 ## Backtracking
 |  |
 | ------- |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2412-minimum-money-required-before-transactions](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2412-minimum-money-required-before-transactions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
