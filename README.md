@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2931-maximum-spending-after-buying-items) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
