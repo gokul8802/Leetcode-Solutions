@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2463-minimum-total-distance-traveled](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-most-popular-video-creator](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2456-most-popular-video-creator) |
 | [2463-minimum-total-distance-traveled](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-number-of-distinct-averages](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/gokul8802/Leetcode-Solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Backtracking
 |  |
 | ------- |
